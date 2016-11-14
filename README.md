@@ -1,2 +1,3 @@
 # Hello-World
-Trial GitHub
+
+Trial GitHub: Learn and try using it.
